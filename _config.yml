@@ -61,7 +61,7 @@ ignore: null
 theme: next
 deploy:
   type: git
-  repo: https://github.com/Imtanghg/Blog
+  repo: https://github.com/Imtanghg/imtanghg.github.io
   branch: main
 giscus:
   enable: true
